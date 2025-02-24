@@ -1,1 +1,9 @@
-![En İyi Mobil Oyunlar Youtube Kapağı (400 x 400 piksel)](https://github.com/user-attachments/assets/fc650304-d08e-43ae-9314-fb5fe1edef3f)
+
+
+M3'te Snackbar kullanımını gösteren basit bir demo uygulamasıdır. Bu uygulamada:
+
+Temel bir Snackbar gösterimi
+Farklı sürelerde (Short/Long) Snackbar kullanımı
+LaunchedEffect ile çevrimdışı durumu izleme
+https://github.com/user-attachments/assets/cb627f21-6521-4117-8c8e-fdc43e1977ec
+
